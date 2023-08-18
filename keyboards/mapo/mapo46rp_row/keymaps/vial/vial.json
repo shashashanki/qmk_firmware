@@ -1,0 +1,125 @@
+{
+  "name": "mapo46rp_row",
+  "productId": "0x0002",
+  "vendorId": "0x4D4D",
+  "matrix": {
+    "rows": 4,
+    "cols": 12
+  },
+  "customKeycodes": [
+    {
+      "name": "CPI_SW",
+      "title": "CPI_SW",
+      "shortName": "CPI\nSW"
+    },
+    {
+      "name": "SCRL_SW",
+      "title": "SCRL_SW",
+      "shortName": "SCRL\nSW"
+    },
+    {
+      "name": "ROT_R15",
+      "title": "ROT_R15",
+      "shortName": "ROT\nR15"
+    },
+    {
+      "name": "ROT_L15",
+      "title": "ROT_L15",
+      "shortName": "ROT\nL15"
+    },
+    {
+      "name": "SCRL_MO",
+      "title": "SCRL_MO",
+      "shortName": "SCRL\nMO"
+    },
+    {
+      "name": "SCRL_TO",
+      "title": "SCRL_TO",
+      "shortName": "SCRL\nTO"
+    },
+    {
+      "name": "SCRL_IN",
+      "title": "SCRL_IN",
+      "shortName": "SCRL\nIN"
+    }
+  ],
+  "layouts": {
+    "keymap": [
+      [
+        {
+          "x": 0.5
+        },
+        "0,0",
+        "0,1",
+        "0,2",
+        "0,3",
+        "0,4",
+        "0,5",
+        {
+          "x": 1
+        },
+        "0,6",
+        "0,7",
+        "0,8",
+        "0,9",
+        "0,10",
+        "0,11"
+      ],
+      [
+        {
+          "x": 0.25
+        },
+        "1,0",
+        "1,1",
+        "1,2",
+        "1,3",
+        "1,4",
+        "1,5",
+        {
+          "x": 0.25
+        },
+        "3,5",
+        {
+          "x": 0.25
+        },
+        "1,6",
+        "1,7",
+        "1,8",
+        "1,9",
+        "1,10",
+        "1,11"
+      ],
+      [
+        "2,0",
+        "2,1",
+        "2,2",
+        "2,3",
+        "2,4",
+        "2,5",
+        "0,0\n\n\n\n\n\n\n\n\ne",
+        "0,1\n\n\n\n\n\n\n\n\ne",
+        "2,6",
+        "2,7",
+        "2,8",
+        "2,9",
+        "2,10",
+        "2,11"
+      ],
+      [
+        {
+          "x": 2
+        },
+        "3,0",
+        "3,1",
+        "3,2",
+        "3,3",
+        "3,4",
+        "3,7",
+        "3,8",
+        "3,9",
+        "3,10",
+        "3,11"
+      ]
+    ]
+  }
+}
