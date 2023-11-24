@@ -1,7 +1,7 @@
 {
-    "manufacturer": "Tomokazu Shinozaki",
+    "manufacturer": "ma_po_daisuki",
     "keyboard_name": "mapo46rp_row",
-    "maintainer": "Tomokazu Shinozaki",
+    "maintainer": "ma_po_daisuki",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
