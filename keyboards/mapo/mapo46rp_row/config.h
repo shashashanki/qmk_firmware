@@ -1,4 +1,4 @@
-// Copyright 2023 Tomokazu Shinozaki (@Tomokazu Shinozaki)
+// Copyright 2023 ma_po_daisuki (@ma_po_daisuki)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
